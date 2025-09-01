@@ -1,3 +1,6 @@
+// Find character value 
+// from ascii
+
 #include <stdio.h>
 
 int main() {

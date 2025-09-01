@@ -1,3 +1,5 @@
+// Find area of Rectangle Formula : A=wl 
+
 #include<stdio.h>
 void main(){
 	int l,w,area;

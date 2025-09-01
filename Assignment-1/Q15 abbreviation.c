@@ -1,3 +1,6 @@
+// Convert school’s name in 
+// abbreviated form 
+
 #include <stdio.h>
 #include <ctype.h>   // for toupper()
 

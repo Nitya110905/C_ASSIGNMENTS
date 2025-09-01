@@ -1,3 +1,5 @@
+// Find Area of Cube formula : a = 6a2 
+
 #include<stdio.h>
 void main(){
 	int a,area;

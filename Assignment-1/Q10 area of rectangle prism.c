@@ -1,3 +1,6 @@
+// find the area of a rectangular prism 
+// formula : A=2(wl+hl+hw) 
+
 #include<stdio.h>
 void main(){
 	int l,w,h,area;
