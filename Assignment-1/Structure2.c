@@ -1,3 +1,8 @@
+// Write a program of structure for five 
+// employee that provides the following 
+// information -print and display empno, 
+// empname, address andage 
+
 #include <stdio.h>
 
 struct Employee {
